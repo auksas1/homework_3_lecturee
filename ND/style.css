@@ -1,0 +1,57 @@
+    body { 
+        background-image:url('https://media3.giphy.com/media/kFTJEiV9nZlhM2juSN/200w.webp?cid=ecf05e47t2d0ryjmvn9s7dnowq6obzbenx60c9y1g65uzi16&ep=v1_gifs_search&rid=200w.webp&ct=g'); 
+        background-repeat:repeat; 
+        font-family: Georgia, serif;
+        justify-content: center;
+}
+    h1  {
+        background-image: url('https://img.freepik.com/free-vector/white-background-golden-diagonal-lines-design_1017-27222.jpg?w=2000');
+        text-align: center;
+        color: red;
+        padding: 20px;
+        margin: 20px auto;
+        box-shadow: 2px 2px 5px navy;
+        max-width: 800px;
+}   
+    h2 {
+        text-align: center;
+        background-image: url('https://st2.depositphotos.com/1035068/7184/v/600/depositphotos_71844065-stock-illustration-seamless-floral-pattern-in-traditional.jpg');
+        background-position: 80%;
+        color:blue;
+        padding: 20px;
+        margin: 20px auto;
+        box-shadow: 4px 4px 10px purple;
+        max-width: 800px;
+
+    
+}
+    li {
+        background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLd_qFlwXJDJgofG2sSz2Gq4qyZvq_r6UydBCfrx_hW8GmUGlZ1n6OV1OMnsLUIwcuHeg&usqp=CAU');
+        text-align: center;
+        color:black;
+        list-style:none;
+        padding: 20px;
+        margin: 20px auto;
+        box-shadow: 2px 2px 5px orangered;
+        max-width: 800px;
+}
+    ul {
+        padding: 0;
+}
+form {
+    width: 300px;
+    background: red;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 40px;
+    border-radius: 0 20px 20px 0;
+
+}
+input[type="submit"]{
+    background: goldenrod;
+    color: black;
+    width: 100px;
+    border-radius: 20px;
+}
